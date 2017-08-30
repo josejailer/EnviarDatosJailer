@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EnviarDatosJailer</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="direccion">Direccion</string>
+    <string name="email">Correo</string>
+    <string name="enviar">Enviar</string>
+    <string name="atras">Atras</string>
+
+</resources>
